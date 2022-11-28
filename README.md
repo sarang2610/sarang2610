@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sarang2610
 - 👀 I’m interested in fronthand and backhand programing
-- 🌱 I’m currently learning javascript and data structure
+- 🌱 I’m currently learning phython language and flutter
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
